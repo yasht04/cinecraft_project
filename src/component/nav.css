@@ -1,0 +1,21 @@
+.assistant{
+    font: bold 50% 'trebuchet ms',helvetica,sans-serif;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.assistant:hover{
+    color:  #FF5F1F !important;
+}
+.home{
+    font: bold 50% 'trebuchet ms',helvetica,sans-serif;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.home:hover{
+    color:  #FF5F1F !important;
+}
+.cinecraft{
+    font: bold 50% 'trebuchet ms',helvetica,sans-serif;
+    font-size: 18px;
+    padding-top: 10px;
+}
