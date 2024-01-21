@@ -1,5 +1,5 @@
 import React from 'react'
-import Course from './Course'
+import Course from './component/Course'
 export default function Home() {
   let sum ="add summary here";
   let mp="add summary here ";

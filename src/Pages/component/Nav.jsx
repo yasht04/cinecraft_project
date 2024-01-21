@@ -28,7 +28,8 @@ export default function Nav() {
       </ul>
     </div>
     <button type="button" onClick={navigateToLogin} className="button1 mx-2">Login</button>
-    <button type="button" onClick={navigateToSignin} className="button2">Sign Up</button>
+  
+  <button type="button" onClick={navigateToSignin} className="button2">Sign Up</button>
   </div>
 </nav>
   )
